@@ -1,1 +1,55 @@
+.row
+{
+	display: inline-block;
+	margin: 30px;
+	width: 80%;
+	text-align: center;
 
+}
+a:hover 
+{
+	text-decoration: underline;
+}
+.intro
+{	padding: 20px;
+	display: block;
+	text-align: justify;
+	vertical-align: top;
+	width: 70%;
+	font-size: 150%;
+	margin: 0 auto;
+}
+.introEnd
+{
+	text-align: right;
+}
+.cuerpo
+{
+	background-color: white;
+	font: 13px/1.5 sans-serif;
+	margin: 0.3em 0;
+	display: block;
+	text-align: center;
+}
+.image
+{
+	width: 160px;
+	height: 160px;
+	margin: 60px;
+}
+.coolWord
+{
+	text-decoration: none;
+	color:#000080;
+}
+.foot
+{
+	border-top:1px solid #AAAAAA;
+	text-align: center;
+	width: 70%;
+	margin: 10px auto;
+}
+ .endWords
+{
+	margin:10px;
+}
